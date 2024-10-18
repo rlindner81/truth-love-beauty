@@ -3,6 +3,13 @@
 My blog uses hugo.
 
 ## run locally
+
 ```
-hugo server -D
+hugo server --buildDrafts
+```
+
+## add posts
+
+```
+hugo new content posts/bla.md
 ```
