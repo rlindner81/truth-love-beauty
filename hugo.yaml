@@ -2,3 +2,14 @@ baseURL: https://goodnogood.org/
 languageCode: en-us
 title: Truth Love and Beauty
 theme: PaperMod
+
+menu:
+  main:
+    - identifier: "archive"
+      name: "Archive"
+      url: "/archives/"
+
+params:
+  homeInfoParams:
+    Content: |
+      {{< figure align=center src="/images/2017/11/sunrise-field-nature-bokeh-1920x1080.jpg" >}}
