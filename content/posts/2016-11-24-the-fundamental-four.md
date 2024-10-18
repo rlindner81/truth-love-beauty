@@ -14,7 +14,7 @@ They are listed here in order of "Return On Investment" with respect to your tim
 
    [Nutrition](https://en.wikipedia.org/wiki/Nutrition) is an absolutely fascinating topic that should really be taught in school. Learn about
     1. [macronutrients](https://en.wikipedia.org/wiki/Nutrition#Macronutrients): carbs, proteins, fats, as well as the
-    2. [micronutrients](https://en.wikipedia.org/wiki/Nutrition#Micronutrients): minerals and vitamins.  Track your food composition for a week and make conscious adjustments.
+    2. [micronutrients](https://en.wikipedia.org/wiki/Nutrition#Micronutrients): minerals and vitamins. Track your food composition for a week and make conscious adjustments.
 3. *Sport*
 
    Find some sport that is fun for you, either solo or in a group. It needs to motivate you to engage in that sport at least twice a week.

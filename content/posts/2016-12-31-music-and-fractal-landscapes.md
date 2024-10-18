@@ -1,8 +1,10 @@
 ---
-draft: true
 title: 'Music and Fractal Landscapes'
 date: '2016-12-31T00:00:00+02:00'
 ---
+
+Excerpt from the excellent book
+[Dirk Gently's Holistic Detective Agency by Douglas Adams](https://www.amazon.de/dp/B003GK2194/)
 
 **“Music and Fractal Landscapes” by Richard MacDuff**
 
@@ -44,4 +46,4 @@ He might also have said that what the hand seizes as a ball must be truth, but h
 
 Because that is at the heart of the relationship between on the one hand our “instinctive” understanding of shape, form, movement, light, and on the other hand our emotional responses to them.
 
-And that is why I believe that there must be a form of music inherent in nature, in natural objects, in the patterns of natural processes. A music that would be as deeply satisfying as any naturally occurring beauty – and our own deepest emotions are, after all, a form of naturally occurring beauty . . .
+And that is why I believe that there must be a form of music inherent in nature, in natural objects, in the patterns of natural processes. A music that would be as deeply satisfying as any naturally occurring beauty – and our own deepest emotions are, after all, a form of naturally occurring beauty . . .
