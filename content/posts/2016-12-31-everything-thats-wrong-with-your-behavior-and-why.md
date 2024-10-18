@@ -1,6 +1,6 @@
 ---
 title: "Everything That's Wrong With Your Behavior and Why"
-date: '2024-10-18T13:50:11+02:00'
+date: '2016-12-31T00:00:00+02:00'
 ---
 
 Excerpt from the excellent book

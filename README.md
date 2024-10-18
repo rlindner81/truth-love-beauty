@@ -1,6 +1,8 @@
 # Truth Love and Beauty
 
-My blog uses hugo.
+My blog uses hugo and papermod.
+
+https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-faq/
 
 ## run locally
 
