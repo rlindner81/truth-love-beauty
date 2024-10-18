@@ -1,10 +1,6 @@
 # ide
 .idea/
 
-# jekyll
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
-vendor/
-.bundle/
+# hugo
+.hugo_build.lock
+public/
