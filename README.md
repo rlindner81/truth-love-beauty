@@ -11,5 +11,5 @@ hugo server --buildDrafts
 ## add posts
 
 ```
-hugo new content posts/bla.md
+hugo new content posts/YYYY-MM-DD-title-of-post.md
 ```
